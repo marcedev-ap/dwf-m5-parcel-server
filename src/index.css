@@ -1,0 +1,17 @@
+:root {
+  --color-principal: rgb(0, 200, 255);
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+.contenedor {
+  --color-principal: rgb(40, 162, 33);
+}
+
+.titulo {
+  color: var(--color-principal);
+}
